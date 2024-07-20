@@ -1,0 +1,15 @@
+{
+  "name": "@amxterasus/translate",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "husky": "^9.1.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "prepare": "husky"
+  }
+}
