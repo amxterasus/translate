@@ -4,7 +4,8 @@
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest",
-    "husky": "^9.1.1"
+    "husky": "^9.1.1",
+    "tsup": "^8.2.1"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
